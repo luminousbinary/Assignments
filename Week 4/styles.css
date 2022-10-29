@@ -1,0 +1,84 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+
+    color: hsl(0, 0%, 95%);
+    font-size: 15px;
+}
+
+p {
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 400;
+}
+
+h2,
+a {
+    font-family: "Big Shoulders Display", sans-serif;
+    font-weight: 700;
+}
+
+.bo {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.bo a {
+    color: hsl(31, 77%, 52%);
+}
+
+.dc {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.dc a {
+    color: hsl(184, 100%, 22%);
+}
+
+.vdc {
+    background-color: hsl(179, 100%, 13%);
+}
+
+.vdc a {
+    color: hsl(179, 100%, 13%);
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    flex-wrap: wrap;
+}
+
+
+h2,
+p,
+.card-image {
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 20px 30px;
+    padding: 10px, 15px;
+}
+
+.card-child {
+    width: 270px;
+ }
+
+.card-child a {
+    background-color: hsl(0, 0%, 95%);
+    padding: 15px 16px;
+    display: block;
+    text-align: center;
+    margin: 20px 60px;
+    border: 1px;
+    border-radius: 12px;
+    text-decoration: none;
+}
+
+
+
+/* 
+different types of partners
+- trade partner
+- co working community/environment
+- percentage partner
+- shared profit (best for you)
+- work equity
+
+*/
